@@ -1,5 +1,6 @@
 html, body {
   font-family; tahoma, serif;
+  background-color: black;
     }
 
 #container {
@@ -14,3 +15,6 @@ html, body {
   font-family: tahoma, serif;
 }
   
+h1 {
+  border-bottom: 1px solid black;
+}
