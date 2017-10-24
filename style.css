@@ -2,6 +2,11 @@ html, body {
   font-family; tahoma, serif;
 }
 
+#container {
+  width: 800px;
+  margin: 40px;
+}
+
 #content-author {
   font-family: tahoma, serif;
   font-size: 32px;
