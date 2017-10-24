@@ -4,12 +4,10 @@ html, body {
 
 #container {
   width: 800px;
-  margin: 40px;
+  margin: 60px;
 }
 
 #content-author {
   font-family: tahoma, serif;
-  font-size: 32px;
-  text-align: center;
 }
   
