@@ -2,7 +2,7 @@ html, body {
   font-family; tahoma, serif;
 }
 
-.content-author {
+#content-author {
   font-family: tahoma, serif;
   font-size: 60px;
   text-align: center;
