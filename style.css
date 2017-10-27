@@ -14,7 +14,6 @@ html, body {
 
 #content-author {
   font-family: tahoma, serif;
-  font-color: white;
 }
 
 .entity {
@@ -32,9 +31,9 @@ html, body {
 }
 
 h1 {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #FFFFFF;
 }
 
 h2 {
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #FFFFFF;
 }
