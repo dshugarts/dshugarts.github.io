@@ -2,14 +2,14 @@ html, body {
   font-family; tahoma, serif;
   background-image: url('https://static.pexels.com/photos/104707/pexels-photo-104707.jpeg');
   background-size: cover;
-  font-color: white;
+  color: #FFFFFF;
     }
 
 #container {
-  margin-top: 20px;
+  margin-top: 30px;
   margin-left: 150px;
   margin-right: 150px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 #content-author {
