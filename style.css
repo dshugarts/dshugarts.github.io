@@ -18,6 +18,11 @@ html, body {
 
 .date {
   float: right;
+  font-style: italic;
+}
+
+.title {
+  font-style: italic;
 }
 
 h1 {
