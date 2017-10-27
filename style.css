@@ -6,12 +6,15 @@ html, body {
     }
 
 #container {
- width: 800px;
- margin: 60px;
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 20px;
 }
 
 #content-author {
   font-family: tahoma, serif;
+  font-color: white;
 }
 
 .entity {
