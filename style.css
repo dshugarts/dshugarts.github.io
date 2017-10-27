@@ -16,6 +16,11 @@ html, body {
   font-family: tahoma, serif;
 }
 
+.entity {
+  font-size: 20px;
+  font-style: bold;
+}
+
 .date {
   float: right;
   font-style: italic;
