@@ -12,7 +12,7 @@ html, body {
   margin-left: 200px;
   margin-right: 200px;
   margin-bottom: 20px;
-  padding: 24px;
+  border-radius: 20px;
 }
 
 #content-author {
